@@ -29,7 +29,7 @@ The objective of this dashboard is to:
 
 ## 📂 Dataset
 
-Dataset link - 
+Dataset link - https://github.com/sweta42/Hotel-Booking-Dashboard/blob/main/Hotel%20Bookings.csv
 
 The dataset was provided by **AlmaBetter** as part of the Module 4 capstone project. It contains structured information about hotel bookings including:
 - Guest demographics
@@ -104,8 +104,7 @@ To view the dashboard:
 
 **Sweta Kumari**  
 Data Science Enthusiast | AlmaBetter Learner  
-GitHub: [Your GitHub Profile Link]  
-LinkedIn: [Your LinkedIn Profile Link]
+GitHub: https://github.com/sweta42
 
 ---
 
